@@ -1,0 +1,1368 @@
+{
+	"latencies":[
+		{
+			"latency": 447,
+			"frequency": 207
+		},
+		{
+			"latency": 448,
+			"frequency": 2343
+		},
+		{
+			"latency": 449,
+			"frequency": 8980
+		},
+		{
+			"latency": 450,
+			"frequency": 18844
+		},
+		{
+			"latency": 451,
+			"frequency": 26773
+		},
+		{
+			"latency": 452,
+			"frequency": 35549
+		},
+		{
+			"latency": 453,
+			"frequency": 45071
+		},
+		{
+			"latency": 454,
+			"frequency": 53229
+		},
+		{
+			"latency": 455,
+			"frequency": 59986
+		},
+		{
+			"latency": 456,
+			"frequency": 65112
+		},
+		{
+			"latency": 457,
+			"frequency": 68159
+		},
+		{
+			"latency": 458,
+			"frequency": 68095
+		},
+		{
+			"latency": 459,
+			"frequency": 66332
+		},
+		{
+			"latency": 460,
+			"frequency": 61830
+		},
+		{
+			"latency": 461,
+			"frequency": 55780
+		},
+		{
+			"latency": 462,
+			"frequency": 50482
+		},
+		{
+			"latency": 463,
+			"frequency": 43856
+		},
+		{
+			"latency": 464,
+			"frequency": 37660
+		},
+		{
+			"latency": 465,
+			"frequency": 31770
+		},
+		{
+			"latency": 466,
+			"frequency": 26918
+		},
+		{
+			"latency": 467,
+			"frequency": 22492
+		},
+		{
+			"latency": 468,
+			"frequency": 19095
+		},
+		{
+			"latency": 469,
+			"frequency": 15778
+		},
+		{
+			"latency": 470,
+			"frequency": 13426
+		},
+		{
+			"latency": 471,
+			"frequency": 11044
+		},
+		{
+			"latency": 472,
+			"frequency": 9427
+		},
+		{
+			"latency": 473,
+			"frequency": 8054
+		},
+		{
+			"latency": 474,
+			"frequency": 6963
+		},
+		{
+			"latency": 475,
+			"frequency": 6118
+		},
+		{
+			"latency": 476,
+			"frequency": 5328
+		},
+		{
+			"latency": 477,
+			"frequency": 4584
+		},
+		{
+			"latency": 478,
+			"frequency": 4068
+		},
+		{
+			"latency": 479,
+			"frequency": 3589
+		},
+		{
+			"latency": 480,
+			"frequency": 3228
+		},
+		{
+			"latency": 481,
+			"frequency": 2847
+		},
+		{
+			"latency": 482,
+			"frequency": 2689
+		},
+		{
+			"latency": 483,
+			"frequency": 2304
+		},
+		{
+			"latency": 484,
+			"frequency": 2115
+		},
+		{
+			"latency": 485,
+			"frequency": 1935
+		},
+		{
+			"latency": 486,
+			"frequency": 1757
+		},
+		{
+			"latency": 487,
+			"frequency": 1598
+		},
+		{
+			"latency": 488,
+			"frequency": 1386
+		},
+		{
+			"latency": 489,
+			"frequency": 1336
+		},
+		{
+			"latency": 490,
+			"frequency": 1284
+		},
+		{
+			"latency": 491,
+			"frequency": 1206
+		},
+		{
+			"latency": 492,
+			"frequency": 1037
+		},
+		{
+			"latency": 493,
+			"frequency": 1014
+		},
+		{
+			"latency": 494,
+			"frequency": 919
+		},
+		{
+			"latency": 495,
+			"frequency": 835
+		},
+		{
+			"latency": 496,
+			"frequency": 794
+		},
+		{
+			"latency": 497,
+			"frequency": 714
+		},
+		{
+			"latency": 498,
+			"frequency": 619
+		},
+		{
+			"latency": 499,
+			"frequency": 650
+		},
+		{
+			"latency": 500,
+			"frequency": 635
+		},
+		{
+			"latency": 501,
+			"frequency": 542
+		},
+		{
+			"latency": 502,
+			"frequency": 499
+		},
+		{
+			"latency": 503,
+			"frequency": 503
+		},
+		{
+			"latency": 504,
+			"frequency": 437
+		},
+		{
+			"latency": 505,
+			"frequency": 412
+		},
+		{
+			"latency": 506,
+			"frequency": 404
+		},
+		{
+			"latency": 507,
+			"frequency": 429
+		},
+		{
+			"latency": 508,
+			"frequency": 354
+		},
+		{
+			"latency": 509,
+			"frequency": 313
+		},
+		{
+			"latency": 510,
+			"frequency": 354
+		},
+		{
+			"latency": 511,
+			"frequency": 326
+		},
+		{
+			"latency": 512,
+			"frequency": 277
+		},
+		{
+			"latency": 513,
+			"frequency": 288
+		},
+		{
+			"latency": 514,
+			"frequency": 270
+		},
+		{
+			"latency": 515,
+			"frequency": 268
+		},
+		{
+			"latency": 516,
+			"frequency": 258
+		},
+		{
+			"latency": 517,
+			"frequency": 227
+		},
+		{
+			"latency": 518,
+			"frequency": 238
+		},
+		{
+			"latency": 519,
+			"frequency": 195
+		},
+		{
+			"latency": 520,
+			"frequency": 208
+		},
+		{
+			"latency": 521,
+			"frequency": 191
+		},
+		{
+			"latency": 522,
+			"frequency": 173
+		},
+		{
+			"latency": 523,
+			"frequency": 161
+		},
+		{
+			"latency": 524,
+			"frequency": 153
+		},
+		{
+			"latency": 525,
+			"frequency": 177
+		},
+		{
+			"latency": 526,
+			"frequency": 149
+		},
+		{
+			"latency": 527,
+			"frequency": 139
+		},
+		{
+			"latency": 528,
+			"frequency": 145
+		},
+		{
+			"latency": 529,
+			"frequency": 143
+		},
+		{
+			"latency": 530,
+			"frequency": 123
+		},
+		{
+			"latency": 531,
+			"frequency": 103
+		},
+		{
+			"latency": 532,
+			"frequency": 98
+		},
+		{
+			"latency": 533,
+			"frequency": 121
+		},
+		{
+			"latency": 534,
+			"frequency": 101
+		},
+		{
+			"latency": 535,
+			"frequency": 95
+		},
+		{
+			"latency": 536,
+			"frequency": 82
+		},
+		{
+			"latency": 537,
+			"frequency": 107
+		},
+		{
+			"latency": 538,
+			"frequency": 79
+		},
+		{
+			"latency": 539,
+			"frequency": 98
+		},
+		{
+			"latency": 540,
+			"frequency": 88
+		},
+		{
+			"latency": 541,
+			"frequency": 73
+		},
+		{
+			"latency": 542,
+			"frequency": 68
+		},
+		{
+			"latency": 543,
+			"frequency": 77
+		},
+		{
+			"latency": 544,
+			"frequency": 70
+		},
+		{
+			"latency": 545,
+			"frequency": 69
+		},
+		{
+			"latency": 546,
+			"frequency": 65
+		},
+		{
+			"latency": 547,
+			"frequency": 61
+		},
+		{
+			"latency": 548,
+			"frequency": 66
+		},
+		{
+			"latency": 549,
+			"frequency": 62
+		},
+		{
+			"latency": 550,
+			"frequency": 63
+		},
+		{
+			"latency": 551,
+			"frequency": 48
+		},
+		{
+			"latency": 552,
+			"frequency": 56
+		},
+		{
+			"latency": 553,
+			"frequency": 50
+		},
+		{
+			"latency": 554,
+			"frequency": 52
+		},
+		{
+			"latency": 555,
+			"frequency": 55
+		},
+		{
+			"latency": 556,
+			"frequency": 48
+		},
+		{
+			"latency": 557,
+			"frequency": 35
+		},
+		{
+			"latency": 558,
+			"frequency": 47
+		},
+		{
+			"latency": 559,
+			"frequency": 40
+		},
+		{
+			"latency": 560,
+			"frequency": 36
+		},
+		{
+			"latency": 561,
+			"frequency": 36
+		},
+		{
+			"latency": 562,
+			"frequency": 35
+		},
+		{
+			"latency": 563,
+			"frequency": 43
+		},
+		{
+			"latency": 564,
+			"frequency": 25
+		},
+		{
+			"latency": 565,
+			"frequency": 32
+		},
+		{
+			"latency": 566,
+			"frequency": 19
+		},
+		{
+			"latency": 567,
+			"frequency": 42
+		},
+		{
+			"latency": 568,
+			"frequency": 32
+		},
+		{
+			"latency": 569,
+			"frequency": 28
+		},
+		{
+			"latency": 570,
+			"frequency": 37
+		},
+		{
+			"latency": 571,
+			"frequency": 30
+		},
+		{
+			"latency": 572,
+			"frequency": 18
+		},
+		{
+			"latency": 573,
+			"frequency": 36
+		},
+		{
+			"latency": 574,
+			"frequency": 33
+		},
+		{
+			"latency": 575,
+			"frequency": 24
+		},
+		{
+			"latency": 576,
+			"frequency": 15
+		},
+		{
+			"latency": 577,
+			"frequency": 14
+		},
+		{
+			"latency": 578,
+			"frequency": 27
+		},
+		{
+			"latency": 579,
+			"frequency": 16
+		},
+		{
+			"latency": 580,
+			"frequency": 25
+		},
+		{
+			"latency": 581,
+			"frequency": 22
+		},
+		{
+			"latency": 582,
+			"frequency": 27
+		},
+		{
+			"latency": 583,
+			"frequency": 26
+		},
+		{
+			"latency": 584,
+			"frequency": 23
+		},
+		{
+			"latency": 585,
+			"frequency": 17
+		},
+		{
+			"latency": 586,
+			"frequency": 32
+		},
+		{
+			"latency": 587,
+			"frequency": 29
+		},
+		{
+			"latency": 588,
+			"frequency": 18
+		},
+		{
+			"latency": 589,
+			"frequency": 16
+		},
+		{
+			"latency": 590,
+			"frequency": 9
+		},
+		{
+			"latency": 591,
+			"frequency": 20
+		},
+		{
+			"latency": 592,
+			"frequency": 26
+		},
+		{
+			"latency": 593,
+			"frequency": 17
+		},
+		{
+			"latency": 594,
+			"frequency": 20
+		},
+		{
+			"latency": 595,
+			"frequency": 15
+		},
+		{
+			"latency": 596,
+			"frequency": 14
+		},
+		{
+			"latency": 597,
+			"frequency": 12
+		},
+		{
+			"latency": 598,
+			"frequency": 12
+		},
+		{
+			"latency": 599,
+			"frequency": 12
+		},
+		{
+			"latency": 600,
+			"frequency": 14
+		},
+		{
+			"latency": 601,
+			"frequency": 10
+		},
+		{
+			"latency": 602,
+			"frequency": 17
+		},
+		{
+			"latency": 603,
+			"frequency": 13
+		},
+		{
+			"latency": 604,
+			"frequency": 10
+		},
+		{
+			"latency": 605,
+			"frequency": 18
+		},
+		{
+			"latency": 606,
+			"frequency": 15
+		},
+		{
+			"latency": 607,
+			"frequency": 10
+		},
+		{
+			"latency": 608,
+			"frequency": 16
+		},
+		{
+			"latency": 609,
+			"frequency": 10
+		},
+		{
+			"latency": 610,
+			"frequency": 15
+		},
+		{
+			"latency": 611,
+			"frequency": 8
+		},
+		{
+			"latency": 612,
+			"frequency": 6
+		},
+		{
+			"latency": 613,
+			"frequency": 16
+		},
+		{
+			"latency": 614,
+			"frequency": 11
+		},
+		{
+			"latency": 615,
+			"frequency": 10
+		},
+		{
+			"latency": 616,
+			"frequency": 13
+		},
+		{
+			"latency": 617,
+			"frequency": 7
+		},
+		{
+			"latency": 618,
+			"frequency": 13
+		},
+		{
+			"latency": 619,
+			"frequency": 7
+		},
+		{
+			"latency": 620,
+			"frequency": 15
+		},
+		{
+			"latency": 621,
+			"frequency": 4
+		},
+		{
+			"latency": 622,
+			"frequency": 3
+		},
+		{
+			"latency": 623,
+			"frequency": 7
+		},
+		{
+			"latency": 624,
+			"frequency": 9
+		},
+		{
+			"latency": 625,
+			"frequency": 8
+		},
+		{
+			"latency": 626,
+			"frequency": 5
+		},
+		{
+			"latency": 627,
+			"frequency": 8
+		},
+		{
+			"latency": 628,
+			"frequency": 4
+		},
+		{
+			"latency": 629,
+			"frequency": 9
+		},
+		{
+			"latency": 630,
+			"frequency": 5
+		},
+		{
+			"latency": 631,
+			"frequency": 8
+		},
+		{
+			"latency": 632,
+			"frequency": 8
+		},
+		{
+			"latency": 633,
+			"frequency": 2
+		},
+		{
+			"latency": 634,
+			"frequency": 7
+		},
+		{
+			"latency": 635,
+			"frequency": 8
+		},
+		{
+			"latency": 636,
+			"frequency": 9
+		},
+		{
+			"latency": 637,
+			"frequency": 8
+		},
+		{
+			"latency": 638,
+			"frequency": 2
+		},
+		{
+			"latency": 639,
+			"frequency": 3
+		},
+		{
+			"latency": 640,
+			"frequency": 7
+		},
+		{
+			"latency": 641,
+			"frequency": 6
+		},
+		{
+			"latency": 642,
+			"frequency": 2
+		},
+		{
+			"latency": 643,
+			"frequency": 5
+		},
+		{
+			"latency": 644,
+			"frequency": 15
+		},
+		{
+			"latency": 645,
+			"frequency": 5
+		},
+		{
+			"latency": 646,
+			"frequency": 5
+		},
+		{
+			"latency": 647,
+			"frequency": 9
+		},
+		{
+			"latency": 648,
+			"frequency": 7
+		},
+		{
+			"latency": 649,
+			"frequency": 6
+		},
+		{
+			"latency": 650,
+			"frequency": 7
+		},
+		{
+			"latency": 651,
+			"frequency": 2
+		},
+		{
+			"latency": 652,
+			"frequency": 5
+		},
+		{
+			"latency": 653,
+			"frequency": 4
+		},
+		{
+			"latency": 654,
+			"frequency": 2
+		},
+		{
+			"latency": 655,
+			"frequency": 5
+		},
+		{
+			"latency": 656,
+			"frequency": 4
+		},
+		{
+			"latency": 657,
+			"frequency": 11
+		},
+		{
+			"latency": 658,
+			"frequency": 4
+		},
+		{
+			"latency": 659,
+			"frequency": 4
+		},
+		{
+			"latency": 660,
+			"frequency": 7
+		},
+		{
+			"latency": 661,
+			"frequency": 2
+		},
+		{
+			"latency": 662,
+			"frequency": 4
+		},
+		{
+			"latency": 663,
+			"frequency": 4
+		},
+		{
+			"latency": 664,
+			"frequency": 6
+		},
+		{
+			"latency": 665,
+			"frequency": 5
+		},
+		{
+			"latency": 666,
+			"frequency": 3
+		},
+		{
+			"latency": 667,
+			"frequency": 3
+		},
+		{
+			"latency": 668,
+			"frequency": 5
+		},
+		{
+			"latency": 669,
+			"frequency": 3
+		},
+		{
+			"latency": 671,
+			"frequency": 4
+		},
+		{
+			"latency": 672,
+			"frequency": 2
+		},
+		{
+			"latency": 673,
+			"frequency": 1
+		},
+		{
+			"latency": 674,
+			"frequency": 2
+		},
+		{
+			"latency": 675,
+			"frequency": 4
+		},
+		{
+			"latency": 676,
+			"frequency": 7
+		},
+		{
+			"latency": 677,
+			"frequency": 2
+		},
+		{
+			"latency": 679,
+			"frequency": 4
+		},
+		{
+			"latency": 680,
+			"frequency": 6
+		},
+		{
+			"latency": 681,
+			"frequency": 3
+		},
+		{
+			"latency": 683,
+			"frequency": 3
+		},
+		{
+			"latency": 684,
+			"frequency": 2
+		},
+		{
+			"latency": 685,
+			"frequency": 2
+		},
+		{
+			"latency": 686,
+			"frequency": 1
+		},
+		{
+			"latency": 688,
+			"frequency": 4
+		},
+		{
+			"latency": 689,
+			"frequency": 3
+		},
+		{
+			"latency": 690,
+			"frequency": 4
+		},
+		{
+			"latency": 691,
+			"frequency": 5
+		},
+		{
+			"latency": 692,
+			"frequency": 2
+		},
+		{
+			"latency": 693,
+			"frequency": 1
+		},
+		{
+			"latency": 694,
+			"frequency": 4
+		},
+		{
+			"latency": 695,
+			"frequency": 1
+		},
+		{
+			"latency": 696,
+			"frequency": 1
+		},
+		{
+			"latency": 697,
+			"frequency": 3
+		},
+		{
+			"latency": 698,
+			"frequency": 2
+		},
+		{
+			"latency": 699,
+			"frequency": 2
+		},
+		{
+			"latency": 700,
+			"frequency": 4
+		},
+		{
+			"latency": 703,
+			"frequency": 2
+		},
+		{
+			"latency": 704,
+			"frequency": 4
+		},
+		{
+			"latency": 705,
+			"frequency": 2
+		},
+		{
+			"latency": 706,
+			"frequency": 1
+		},
+		{
+			"latency": 707,
+			"frequency": 4
+		},
+		{
+			"latency": 708,
+			"frequency": 3
+		},
+		{
+			"latency": 709,
+			"frequency": 3
+		},
+		{
+			"latency": 710,
+			"frequency": 2
+		},
+		{
+			"latency": 711,
+			"frequency": 4
+		},
+		{
+			"latency": 712,
+			"frequency": 2
+		},
+		{
+			"latency": 713,
+			"frequency": 1
+		},
+		{
+			"latency": 714,
+			"frequency": 3
+		},
+		{
+			"latency": 715,
+			"frequency": 5
+		},
+		{
+			"latency": 716,
+			"frequency": 2
+		},
+		{
+			"latency": 718,
+			"frequency": 2
+		},
+		{
+			"latency": 719,
+			"frequency": 2
+		},
+		{
+			"latency": 720,
+			"frequency": 3
+		},
+		{
+			"latency": 721,
+			"frequency": 2
+		},
+		{
+			"latency": 722,
+			"frequency": 2
+		},
+		{
+			"latency": 723,
+			"frequency": 1
+		},
+		{
+			"latency": 724,
+			"frequency": 1
+		},
+		{
+			"latency": 725,
+			"frequency": 1
+		},
+		{
+			"latency": 726,
+			"frequency": 1
+		},
+		{
+			"latency": 728,
+			"frequency": 1
+		},
+		{
+			"latency": 729,
+			"frequency": 1
+		},
+		{
+			"latency": 730,
+			"frequency": 2
+		},
+		{
+			"latency": 731,
+			"frequency": 3
+		},
+		{
+			"latency": 736,
+			"frequency": 4
+		},
+		{
+			"latency": 737,
+			"frequency": 2
+		},
+		{
+			"latency": 738,
+			"frequency": 2
+		},
+		{
+			"latency": 739,
+			"frequency": 3
+		},
+		{
+			"latency": 741,
+			"frequency": 2
+		},
+		{
+			"latency": 742,
+			"frequency": 2
+		},
+		{
+			"latency": 743,
+			"frequency": 2
+		},
+		{
+			"latency": 744,
+			"frequency": 2
+		},
+		{
+			"latency": 746,
+			"frequency": 1
+		},
+		{
+			"latency": 749,
+			"frequency": 1
+		},
+		{
+			"latency": 752,
+			"frequency": 4
+		},
+		{
+			"latency": 756,
+			"frequency": 1
+		},
+		{
+			"latency": 758,
+			"frequency": 3
+		},
+		{
+			"latency": 760,
+			"frequency": 2
+		},
+		{
+			"latency": 764,
+			"frequency": 2
+		},
+		{
+			"latency": 767,
+			"frequency": 1
+		},
+		{
+			"latency": 768,
+			"frequency": 1
+		},
+		{
+			"latency": 769,
+			"frequency": 1
+		},
+		{
+			"latency": 771,
+			"frequency": 1
+		},
+		{
+			"latency": 775,
+			"frequency": 1
+		},
+		{
+			"latency": 777,
+			"frequency": 1
+		},
+		{
+			"latency": 779,
+			"frequency": 3
+		},
+		{
+			"latency": 781,
+			"frequency": 1
+		},
+		{
+			"latency": 782,
+			"frequency": 1
+		},
+		{
+			"latency": 785,
+			"frequency": 1
+		},
+		{
+			"latency": 790,
+			"frequency": 2
+		},
+		{
+			"latency": 791,
+			"frequency": 1
+		},
+		{
+			"latency": 792,
+			"frequency": 1
+		},
+		{
+			"latency": 794,
+			"frequency": 1
+		},
+		{
+			"latency": 795,
+			"frequency": 1
+		},
+		{
+			"latency": 798,
+			"frequency": 1
+		},
+		{
+			"latency": 801,
+			"frequency": 1
+		},
+		{
+			"latency": 802,
+			"frequency": 1
+		},
+		{
+			"latency": 804,
+			"frequency": 1
+		},
+		{
+			"latency": 810,
+			"frequency": 1
+		},
+		{
+			"latency": 813,
+			"frequency": 1
+		},
+		{
+			"latency": 822,
+			"frequency": 1
+		},
+		{
+			"latency": 826,
+			"frequency": 1
+		},
+		{
+			"latency": 840,
+			"frequency": 1
+		},
+		{
+			"latency": 850,
+			"frequency": 1
+		},
+		{
+			"latency": 851,
+			"frequency": 1
+		},
+		{
+			"latency": 857,
+			"frequency": 1
+		},
+		{
+			"latency": 865,
+			"frequency": 1
+		},
+		{
+			"latency": 868,
+			"frequency": 1
+		},
+		{
+			"latency": 870,
+			"frequency": 1
+		},
+		{
+			"latency": 879,
+			"frequency": 1
+		},
+		{
+			"latency": 880,
+			"frequency": 1
+		},
+		{
+			"latency": 883,
+			"frequency": 2
+		},
+		{
+			"latency": 894,
+			"frequency": 1
+		},
+		{
+			"latency": 896,
+			"frequency": 1
+		},
+		{
+			"latency": 906,
+			"frequency": 1
+		},
+		{
+			"latency": 909,
+			"frequency": 1
+		},
+		{
+			"latency": 914,
+			"frequency": 1
+		},
+		{
+			"latency": 933,
+			"frequency": 1
+		},
+		{
+			"latency": 941,
+			"frequency": 1
+		},
+		{
+			"latency": 948,
+			"frequency": 1
+		},
+		{
+			"latency": 976,
+			"frequency": 1
+		},
+		{
+			"latency": 981,
+			"frequency": 1
+		},
+		{
+			"latency": 1023,
+			"frequency": 1
+		},
+		{
+			"latency": 1025,
+			"frequency": 1
+		},
+		{
+			"latency": 1079,
+			"frequency": 1
+		},
+		{
+			"latency": 1088,
+			"frequency": 1
+		},
+		{
+			"latency": 1101,
+			"frequency": 1
+		},
+		{
+			"latency": 1433,
+			"frequency": 1
+		}
+	]
+}
