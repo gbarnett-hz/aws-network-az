@@ -3,7 +3,10 @@ title: Network Latency - AWS Single AZ vs. Multi-AZ
 ---
 
 _Overview._ Some data point on network latencies between VMs hosted in the same region/AZ vs. VMs
-hosted in the same region/distinct AZs.
+hosted in the same region/distinct AZs. Average latency of single AZ communication is ~3.5x less
+than that of communication across distinct AZs. I'll leave interpretation of percentiles to the
+reader. The `lagscope` tool (under the default configuration used) collects its data from issuing
+1,000,000 pings to the recipient and bases percentiles on that.
 
 | Region    | OS           | VM SKU    | Tools                                             |
 | --------- | ------------ | --------- | ------------------------------------------------- |

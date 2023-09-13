@@ -123,7 +123,11 @@ id="toc-eu-west-1c---eu-west-1b">eu-west-1c -&gt; eu-west-1b</a></li>
 </nav>
 <p><em>Overview.</em> Some data point on network latencies between VMs
 hosted in the same region/AZ vs. VMs hosted in the same region/distinct
-AZs.</p>
+AZs. Average latency of single AZ communication is ~3.5x less than that
+of communication across distinct AZs. I’ll leave interpretation of
+percentiles to the reader. The <code>lagscope</code> tool (under the
+default configuration used) collects its data from issuing 1,000,000
+pings to the recipient and bases percentiles on that.</p>
 <table>
 <colgroup>
 <col style="width: 11%" />
