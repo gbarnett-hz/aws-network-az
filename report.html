@@ -153,8 +153,11 @@ pings to the recipient and bases percentiles on that.</p>
 </tbody>
 </table>
 <div class="sourceCode" id="cb1"><pre
-class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;</span> terraform <span class="ex">init</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;</span> terraform <span class="ex">apply</span></span></code></pre></div>
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;</span> git <span class="ex">clone</span> https://github.com/gbarnett-hz/aws-network-az.git</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;</span> cd <span class="ex">aws-network-az</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;</span> # <span class="ex">assumes</span> default profile is good to use<span class="kw">;</span> <span class="ex">you</span><span class="st">&#39;ll need to provide publish ssh key location on &#39;</span><span class="ex">apply</span><span class="st">&#39;</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="st">&gt; terraform init</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="st">&gt; terraform apply</span></span></code></pre></div>
 <h1 id="single-az">Single-AZ</h1>
 <p>Under the deployment used:</p>
 <table>
