@@ -13,6 +13,9 @@ reader. The `lagscope` tool (under the default configuration used) collects its 
 | eu-west-1 | Ubuntu 22.04 | c5.xlarge | [lagscope](https://github.com/microsoft/lagscope) |
 
 ```bash
+> git clone https://github.com/gbarnett-hz/aws-network-az.git
+> cd aws-network-az
+> # assumes default profile is good to use; you'll need to provide publish ssh key location on 'apply'
 > terraform init
 > terraform apply
 ```
